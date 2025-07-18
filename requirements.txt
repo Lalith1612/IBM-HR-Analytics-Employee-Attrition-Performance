@@ -1,0 +1,10 @@
+# You can install all of them by running: pip install -r requirements.txt
+
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+scikit-learn==1.5.0
+optuna==3.6.1
+streamlit==1.36.0
